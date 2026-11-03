@@ -3,3 +3,4 @@ segregate users
 update ~/.gitconfig
 test1
 test2
+test3
