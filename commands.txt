@@ -1,4 +1,5 @@
 git config change
 segregate users
 update ~/.gitconfig
-test
+test1
+test2
